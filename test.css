@@ -1,0 +1,13 @@
+#map { 
+    height: 600px; 
+}
+#titre{
+    font-size: 50px;
+    text-align: center;
+}
+#poisson {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
